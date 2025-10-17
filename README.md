@@ -16,6 +16,8 @@ This project demonstrates how to:
 
 The Rule Hit Count feature is available in the Illumio Policy Compute Engine (PCE) user interface. This feature provides visibility into how frequently rules are being triggered in your environment.
 
+**Note:** This feature needs to be activated by Illumio support and is not active on the Illumio PCE management body by default. Contact Illumio support to enable this feature for your PCE instance.
+
 **To access and export Rule Hit Count:**
 1. Navigate to **Reports** in the Illumio UI
 2. Select **Rule Hit Count**
